@@ -10,6 +10,7 @@ Exercises for [Algorithms, by Princeton University](https://www.coursera.org/lea
 * Week 3 - [Pattern Recognition](./src/main/java/me/janeldq/algorithms/assignments/collinear)
 * Week 4 - [8 Puzzle](./src/main/java/me/janeldq/algorithms/assignments/puzzle)
 * Week 5 - [Kd-Trees](./src/main/java/me/janeldq/algorithms/assignments/kdtree)
+<img width="2806" height="1556" alt="image" src="https://github.com/user-attachments/assets/c4341dbb-0682-491a-8571-c3a4fe04aaf0" />
 
 #### Part II
 * Week 1 - [WordNet](./src/main/java/me/janeldq/algorithms/assignments/wordnet)
@@ -17,6 +18,7 @@ Exercises for [Algorithms, by Princeton University](https://www.coursera.org/lea
 * Week 3 - [Baseball Elimination](./src/main/java/me/janeldq/algorithms/assignments/baseball)
 * Week 4 - [Boggle](./src/main/java/me/janeldq/algorithms/assignments/boggle)
 * Week 5 - [Burrows-Wheeler](./src/main/java/me/janeldq/algorithms/assignments/burrows)
+<img width="2800" height="1552" alt="image" src="https://github.com/user-attachments/assets/8f7326f8-4e1b-4a9f-8191-7e7612d09670" />
 
 ---
 ### :mag: Sorting
@@ -47,4 +49,5 @@ Exercises for [Algorithms, by Princeton University](https://www.coursera.org/lea
 
 **Further Reading**
 * *Data Structures and Algorithm Analysis in Java, 3rd Edition, Mark Allen Weiss*
+
 
